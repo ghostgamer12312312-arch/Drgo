@@ -1,1 +1,2 @@
-"""Telegram handler modules."""
+"""Handlers package."""
+from . import router
